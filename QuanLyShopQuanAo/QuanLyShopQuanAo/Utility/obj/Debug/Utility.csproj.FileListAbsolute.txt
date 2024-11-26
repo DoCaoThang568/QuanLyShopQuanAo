@@ -1,0 +1,6 @@
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\bin\Debug\Utility.dll
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\bin\Debug\Utility.pdb
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\obj\Debug\Utility.dll
+C:\Users\thang\Desktop\HUIT\QuanLyShopQuanAo\QuanLyShopQuanAo\Utility\obj\Debug\Utility.pdb
